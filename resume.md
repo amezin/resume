@@ -17,16 +17,16 @@ Work Experience
 Developed and maintained:
 
 - Utilities and scripts for building Debian/Ubuntu packages.
-- Various deployment tools.
+- Various deployment and monitoring tools.
 - Jenkins pipelines for automated builds, tests, and deployment.
-- docker-compose based test environment.
+- docker-compose-based test environment.
 
 ### Software Engineer at GreatFruit
 
 **February 2016 – August 2018**
 
-- Ported a desktop Android emulator application to run in cloud (Amazon EC2).
-- Modified Android 4.2 and 6.0 (Android-specific virtual device drivers/kernel modules, user space libraries and frameworks) to run in LXC containers.
+- Ported a desktop application - Android emulator - to run in cloud in headless mode.
+- Modified Android 4.2 and 6.0 (Android-specific virtual device drivers/kernel modules, userspace libraries, and frameworks) to run in LXC containers.
 - Backported changes from newer Android and Linux Kernel versions.
 - Implemented low-latency screen and audio streaming.
 - Wrote and improved lots of build scripts (Android.mk, CMake).
@@ -35,12 +35,11 @@ Developed and maintained:
 
 **February 2014 – February 2016**
 
-Participated in development of multiple projects:
-
-- POS system (Qt, QML, C++, Windows).
-- Chromium-based browser.
-- Shell for a web application (Qt, C++, Windows/Linux/macOS).
-- Spam filtering server (C++, Boost, Linux).
+- Worked on a spam filtering server (Linux, C++, Boost.ASIO, CMake) – build scripts, optimizations in networking code.
+- Implemented a shell for a web application for multiple platforms (Windows, Linux, macOS, Qt) with deep integration with desktop environments, installers for every platform.
+- Participated in development of POS software (Windows, C++, Qt, QML, CMake) – data synchronization with a remote server, communication with peripheral devices, build scripts.
+- Implemented custom DNS caching in a Chromium-based browser, tied to customer's (ISP) infrastructure.
+- Implemented a GUI utility for batch processing of archives in multiple formats (Linux, GTK, Python).
 
 Contributions to Open Source Projects
 -------------------------------------
