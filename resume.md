@@ -77,6 +77,14 @@ Contributions to Open Source Projects
 - [laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools/commits/lmt-upstream?author=amezin)
 - Jenkins plugins ([Telegram Notifications](https://github.com/jenkinsci/telegram-notifications-plugin/commits/master?author=amezin), [Categorized View](https://github.com/jenkinsci/categorized-view-plugin/commit/1a7ec3bb5a9736072919102342097fb337139673))
 
+Personal Projects
+-----------------
+
+- [Drop-Down Terminal Extension for Gnome Shell](https://github.com/amezin/gnome-shell-extension-ddterm)
+- [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
+- [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
+- [Linux driver for NZXT fan controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms)
+
 Education
 ---------
 
@@ -93,11 +101,3 @@ Education
 
 - Participated in ACM ICPC 2010-2011, 2011-2012 semifinals (Novosibirsk SU 2 team), and other programming contests.
 - Participated in Google Summer of Code 2013 (KDE).
-
-Personal Projects
------------------
-
-- [Drop-Down Terminal Extension for Gnome Shell](https://github.com/amezin/gnome-shell-extension-ddterm)
-- [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
-- [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
-- [Linux driver for NZXT fan controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms)
