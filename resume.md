@@ -76,6 +76,8 @@ Contributions to Open Source Projects
 - [Guake](https://github.com/Guake/guake/commits/master?author=amezin)
 - [laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools/commits/lmt-upstream?author=amezin)
 - Jenkins plugins ([Telegram Notifications](https://github.com/jenkinsci/telegram-notifications-plugin/commits/master?author=amezin), [Categorized View](https://github.com/jenkinsci/categorized-view-plugin/commit/1a7ec3bb5a9736072919102342097fb337139673))
+- [libepoxy](https://github.com/anholt/libepoxy/commit/d0b319e27b874a13f6b41f4759c272b08d74cb8a)
+- [dbus-rs](https://github.com/diwic/dbus-rs/commits/master?author=amezin)
 
 Personal Projects
 -----------------
