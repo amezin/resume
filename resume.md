@@ -10,7 +10,7 @@ Aleksandr Mezin
 Work Experience
 ---------------
 
-### Software Engineer at Ivideon
+### Software Engineer at [Ivideon](https://www.ivideon.com/)
 
 **October 2018 – July 2020**
 
@@ -21,7 +21,7 @@ Developed and maintained:
 - Jenkins pipelines for automated builds, tests, and deployment.
 - docker-compose-based test environment.
 
-### Software Engineer at GreatFruit
+### Software Engineer at [GreatFruit](http://greatfruit.org/)
 
 **February 2016 – August 2018**
 
@@ -31,7 +31,9 @@ Developed and maintained:
 - Implemented low-latency screen and audio streaming.
 - Wrote and improved lots of build scripts (Android.mk, CMake).
 
-### Software Engineer at Crystalnix
+Desktop version is available at <https://www.andyroid.net/>, *BUT IT SEEMS TO CONTAIN A CRYPTO MINER NOW*, so I wouldn't recommend to install it.
+
+### Software Engineer at [Crystalnix](https://www.crystalnix.com/)
 
 **February 2014 – February 2016**
 
@@ -85,7 +87,7 @@ Personal Projects
 - [Drop-Down Terminal Extension for Gnome Shell](https://github.com/amezin/gnome-shell-extension-ddterm)
 - [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
 - [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
-- [Linux driver for NZXT fan controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms)
+- [Linux driver for NZXT RGB & Fan Controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms)
 
 Education
 ---------
@@ -95,11 +97,11 @@ Education
 **September 2013 – August 2015**
 
 - Participated in ACM ICPC semifinal 2013-2014 (Omsk SU 2 team) and other programming contests.
-- Participated in Google Summer of Code 2014, 2015 (X.org, KDE).
+- Participated in Google Summer of Code 2014 (X.org), [2015 (KDE)](https://community.kde.org/GSoC/2015/StatusReports#Alexander_Mezin).
 
 ### Novosibirsk State University, BSc in Computer Science and Computer Facilities
 
 **September 2008 – August 2013**
 
 - Participated in ACM ICPC 2010-2011, 2011-2012 semifinals (Novosibirsk SU 2 team), and other programming contests.
-- Participated in Google Summer of Code 2013 (KDE).
+- Participated in [Google Summer of Code 2013 (KDE)](https://community.kde.org/GSoC/2013/StatusReports#Alexander_Mezin).
