@@ -31,8 +31,6 @@ Developed and maintained:
 - Implemented low-latency screen and audio streaming.
 - Wrote and improved lots of build scripts (Android.mk, CMake).
 
-Desktop version is available at <https://www.andyroid.net/>, *BUT IT SEEMS TO CONTAIN A CRYPTO MINER NOW*, so I wouldn't recommend to install it.
-
 ### Software Engineer at [Crystalnix](https://www.crystalnix.com/)
 
 **February 2014 – February 2016**
