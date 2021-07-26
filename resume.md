@@ -66,18 +66,19 @@ Contributions to Open Source Projects
 
 ### Also contributed patches to:
 
-- [docker-compose](https://github.com/docker/compose/commits/master?author=amezin)
-- [CMake](https://github.com/Kitware/CMake/commit/ac5731a7e380349f19dc319e6c31e189b5faba93)
-- [Meson](https://github.com/mesonbuild/meson/commit/692f6733122b2bf053299f8a0cdbcab3d5bfbfb5)
-- OpenWRT ([core](https://github.com/openwrt/openwrt/commit/acb336235cc640980ea549655b0702daf9e628f8), [packages](https://github.com/openwrt/packages/commit/df14fa949ff49a7c16ac8ac230c0947fb38cc113))
-- [OpenRC](https://github.com/OpenRC/openrc/commit/970893adf3a2f0f7330c4839a716566de14171a3)
-- [Homebrew](https://github.com/Homebrew/homebrew-core/commits/master?author=amezin)
-- [Guake](https://github.com/Guake/guake/commits/master?author=amezin)
-- [laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools/commits/lmt-upstream?author=amezin)
-- Jenkins plugins ([Telegram Notifications](https://github.com/jenkinsci/telegram-notifications-plugin/commits/master?author=amezin), [Categorized View](https://github.com/jenkinsci/categorized-view-plugin/commit/1a7ec3bb5a9736072919102342097fb337139673))
-- [libepoxy](https://github.com/anholt/libepoxy/commit/d0b319e27b874a13f6b41f4759c272b08d74cb8a)
-- [dbus-rs](https://github.com/diwic/dbus-rs/commits/master?author=amezin)
-- [libxcb](https://github.com/freedesktop/xcb-libxcb/commit/70ea5da64b34336bb0916f6c325545cb50746159)
+[docker-compose](https://github.com/docker/compose/commits/master?author=amezin),
+[CMake](https://github.com/Kitware/CMake/commit/ac5731a7e380349f19dc319e6c31e189b5faba93),
+[Meson](https://github.com/mesonbuild/meson/commit/692f6733122b2bf053299f8a0cdbcab3d5bfbfb5),
+OpenWRT ([core](https://github.com/openwrt/openwrt/commit/acb336235cc640980ea549655b0702daf9e628f8), [packages](https://github.com/openwrt/packages/commit/df14fa949ff49a7c16ac8ac230c0947fb38cc113)),
+[OpenRC](https://github.com/OpenRC/openrc/commit/970893adf3a2f0f7330c4839a716566de14171a3),
+[Homebrew](https://github.com/Homebrew/homebrew-core/commits/master?author=amezin),
+[Guake](https://github.com/Guake/guake/commits/master?author=amezin),
+[laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools/commits/lmt-upstream?author=amezin),
+Jenkins plugins ([Telegram Notifications](https://github.com/jenkinsci/telegram-notifications-plugin/commits/master?author=amezin), [Categorized View](https://github.com/jenkinsci/categorized-view-plugin/commit/1a7ec3bb5a9736072919102342097fb337139673)),
+[libepoxy](https://github.com/anholt/libepoxy/commit/d0b319e27b874a13f6b41f4759c272b08d74cb8a),
+[dbus-rs](https://github.com/diwic/dbus-rs/commits/master?author=amezin),
+[libxcb](https://github.com/freedesktop/xcb-libxcb/commit/70ea5da64b34336bb0916f6c325545cb50746159),
+...
 
 Personal Projects
 -----------------
