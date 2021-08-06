@@ -5,7 +5,7 @@ Aleksandr Mezin
 
 - <mezin.alexander@gmail.com>
 - <https://github.com/amezin/>
-- <https://www.openhub.net/accounts/amezin>
+- <https://www.linkedin.com/in/alexandermezin/>
 
 Work Experience
 ---------------
@@ -80,13 +80,15 @@ Jenkins plugins ([Telegram Notifications](https://github.com/jenkinsci/telegram-
 [libxcb](https://github.com/freedesktop/xcb-libxcb/commit/70ea5da64b34336bb0916f6c325545cb50746159),
 ...
 
+<https://www.openhub.net/accounts/amezin>
+
 Personal Projects
 -----------------
 
 - [Drop-Down Terminal Extension for Gnome Shell](https://github.com/amezin/gnome-shell-extension-ddterm)
 - [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
 - [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
-- [Linux driver for NZXT RGB & Fan Controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms)
+- [Reverse-engineered Linux Hwmon driver for NZXT RGB & Fan Controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms)
 
 Education
 ---------
