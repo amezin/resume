@@ -1,14 +1,21 @@
 Aleksandr Mezin
 ===============
 
-**Software Engineer**
-
 - <mezin.alexander@gmail.com>
 - <https://github.com/amezin/>
 - <https://www.linkedin.com/in/alexandermezin/>
 
 Work Experience
 ---------------
+
+### Software Developer at [Kaspersky Lab](https://www.kaspersky.com/)
+
+**August 2021 – Present**
+
+In KasperskyOS Thin Client team/project:
+
+- Fixing and optimizing CMake-based build scripts and Makefiles, solving related issues.
+- Wrote a fuzz test for a popular open source library (not published yet).
 
 ### Software Engineer at [Ivideon](https://www.ivideon.com/)
 
@@ -20,6 +27,8 @@ Developed and maintained:
 - Various deployment and monitoring tools.
 - Jenkins pipelines for automated builds, tests, and deployment.
 - docker-compose-based test environment.
+
+Gradually moved all source code repositories (more than 100 of them) from Mercurial/BitBucket to Git/GitLab, preserving the entire history, without interrupting other people's work.
 
 ### Software Engineer at [GreatFruit](http://greatfruit.org/)
 
@@ -41,6 +50,32 @@ Developed and maintained:
 - Implemented custom DNS caching in a Chromium-based browser, tied to customer's (ISP) infrastructure.
 - Implemented a GUI utility for batch processing of archives in multiple formats (Linux, GTK, Python).
 
+Personal Projects
+-----------------
+
+- [Reverse-engineered Linux Hwmon driver for NZXT RGB & Fan Controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms), [included in Linux kernel since 5.17](https://github.com/torvalds/linux/blob/master/drivers/hwmon/nzxt-smart2.c)
+- [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
+- [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
+
+.
+
+Education
+---------
+
+### Omsk State University, MSc in Computer Science and Computer Facilities
+
+**September 2013 – August 2015**
+
+- Participated in ACM ICPC NEERC semifinal 2013-2014 (Omsk SU 2 team) and other programming contests.
+- Participated in Google Summer of Code 2014 (X.org), [2015 (KDE)](https://community.kde.org/GSoC/2015/StatusReports#Alexander_Mezin).
+
+### Novosibirsk State University, BSc in Computer Science and Computer Facilities
+
+**September 2008 – August 2013**
+
+- Participated in ACM ICPC 2010-2011, 2011-2012 NEERC semifinals (Novosibirsk SU 2 team), and other programming contests.
+- Participated in [Google Summer of Code 2013 (KDE)](https://community.kde.org/GSoC/2013/StatusReports#Alexander_Mezin).
+
 Contributions to Open Source Projects
 -------------------------------------
 
@@ -58,6 +93,7 @@ Contributions to Open Source Projects
 ### Linux Kernel
 
 - [Workarounds for hardware/firmware bugs in ACPI AC and battery drivers](https://github.com/torvalds/linux/commits/v3.18?author=amezin)
+- [Reverse-engineered Linux Hwmon driver for NZXT RGB & Fan Controller](https://github.com/torvalds/linux/blob/master/drivers/hwmon/nzxt-smart2.c)
 
 ### LXC
 
@@ -81,28 +117,3 @@ Jenkins plugins ([Telegram Notifications](https://github.com/jenkinsci/telegram-
 ...
 
 <https://www.openhub.net/accounts/amezin>
-
-Personal Projects
------------------
-
-- [Drop-Down Terminal Extension for Gnome Shell](https://github.com/amezin/gnome-shell-extension-ddterm)
-- [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
-- [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
-- [Reverse-engineered Linux Hwmon driver for NZXT RGB & Fan Controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms)
-
-Education
----------
-
-### Omsk State University, MSc in Computer Science and Computer Facilities
-
-**September 2013 – August 2015**
-
-- Participated in ACM ICPC semifinal 2013-2014 (Omsk SU 2 team) and other programming contests.
-- Participated in Google Summer of Code 2014 (X.org), [2015 (KDE)](https://community.kde.org/GSoC/2015/StatusReports#Alexander_Mezin).
-
-### Novosibirsk State University, BSc in Computer Science and Computer Facilities
-
-**September 2008 – August 2013**
-
-- Participated in ACM ICPC 2010-2011, 2011-2012 semifinals (Novosibirsk SU 2 team), and other programming contests.
-- Participated in [Google Summer of Code 2013 (KDE)](https://community.kde.org/GSoC/2013/StatusReports#Alexander_Mezin).
