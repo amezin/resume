@@ -15,7 +15,9 @@ Work Experience
 In KasperskyOS Thin Client team/project:
 
 - Fixing and optimizing CMake-based build scripts and Makefiles, solving related issues.
+- Fixing bugs in 3rd party open source libraries.
 - Wrote a fuzz test for a popular open source library (not published yet).
+- Ordinary bug fixing and feature work.
 
 ### Software Engineer at [Ivideon](https://www.ivideon.com/)
 
@@ -57,8 +59,6 @@ Personal Projects
 - [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
 - [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
 
-.
-
 Education
 ---------
 
@@ -98,7 +98,7 @@ Contributions to Open Source Projects
 ### LXC
 
 - [Fixes for Android containers](https://github.com/lxc/lxc/commits/a5c28c86f56835fa3e0915558e05390dd0a79580?author=amezin)
-- [Improvements to Python bindings to allow building them separately](https://github.com/lxc/lxc/commits/2c500c107acf9b9e90d3d190c940a3c4660bce85/src/python-lxc?author=amezin)
+- [Improvements in Python bindings that allowed building them separately](https://github.com/lxc/lxc/commits/2c500c107acf9b9e90d3d190c940a3c4660bce85/src/python-lxc?author=amezin)
 
 ### Also contributed patches to:
 
