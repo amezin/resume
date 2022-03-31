@@ -15,9 +15,9 @@ Work Experience
 In KasperskyOS Thin Client team/project:
 
 - Fixing and optimizing CMake-based build scripts and Makefiles, solving related issues.
-- Fixing bugs in 3rd party open source libraries.
+- Fixing bugs in 3rd party open source libraries (mostly in C).
 - Wrote a fuzz test for a popular open source library (not published yet).
-- Ordinary bug fixing and feature work.
+- Ordinary bug fixing and feature work (C/C++).
 
 ### Software Engineer at [Ivideon](https://www.ivideon.com/)
 
@@ -25,10 +25,11 @@ In KasperskyOS Thin Client team/project:
 
 Developed and maintained:
 
-- Utilities and scripts for building Debian/Ubuntu packages.
-- Various deployment and monitoring tools.
-- Jenkins pipelines for automated builds, tests, and deployment.
-- docker-compose-based test environment.
+- Utilities and scripts for building Debian/Ubuntu packages (Python).
+- Various deployment and monitoring tools (Python).
+- Jenkins pipelines for automated builds, tests, and deployment (Groovy).
+- A custom Jenkins VCS plugin, fixed issues in a few other plugins (Java).
+- docker-compose-based test environment (Python).
 
 Gradually moved all source code repositories (more than 100 of them) from Mercurial/BitBucket to Git/GitLab, preserving the entire history, without interrupting other people's work.
 
@@ -36,11 +37,12 @@ Gradually moved all source code repositories (more than 100 of them) from Mercur
 
 **February 2016 – August 2018**
 
-- Ported a desktop application - Android emulator - to run in cloud in headless mode.
-- Modified Android 4.2 and 6.0 (Android-specific virtual device drivers/kernel modules, userspace libraries, and frameworks) to run in LXC containers.
-- Backported changes from newer Android and Linux Kernel versions.
-- Implemented low-latency screen and audio streaming.
-- Wrote and improved lots of build scripts (Android.mk, CMake).
+- Ported a desktop application - Android emulator - to run in cloud in headless mode (C, C++, Python, OpenGL).
+- Modified Android 4.2 and 6.0 (Android-specific virtual device drivers/kernel modules, userspace libraries, and frameworks) to run in LXC containers (C, C++, Java).
+- Backported changes from newer Android and Linux Kernel versions (C, C++).
+- Implemented low-latency screen and audio streaming (C, C++, GStreamer).
+- Implemented virtual camera, audio HALs (C++)
+- Wrote and improved lots of build scripts (Android.mk/Makefile, CMake).
 
 ### Software Engineer at [Crystalnix](https://www.crystalnix.com/)
 
