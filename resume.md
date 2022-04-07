@@ -1,6 +1,8 @@
 Aleksandr Mezin
 ===============
 
+Software Engineer
+
 - <mezin.alexander@gmail.com>
 - <https://github.com/amezin/>
 - <https://www.linkedin.com/in/alexandermezin/>
@@ -14,9 +16,8 @@ Work Experience
 
 In KasperskyOS Thin Client team/project:
 
-- Fixing and optimizing CMake-based build scripts and Makefiles, solving related issues.
-- Fixing bugs in 3rd party open source libraries (mostly in C).
-- Wrote a fuzz test for a popular open source library (not published yet).
+- Developing, fixing and optimizing CMake-based build scripts and Makefiles, CI pipelines, solving other build/CI-related issues.
+- Wrote a fuzz test for a popular open source library, uncovered a few new bugs (not published yet).
 - Ordinary bug fixing and feature work (C/C++).
 
 ### Software Engineer at [Ivideon](https://www.ivideon.com/)
@@ -31,17 +32,15 @@ Developed and maintained:
 - A custom Jenkins VCS plugin, fixed issues in a few other plugins (Java).
 - docker-compose-based test environment (Python).
 
-Gradually moved all source code repositories (more than 100 of them) from Mercurial/BitBucket to Git/GitLab, preserving the entire history, without interrupting other people's work.
-
 ### Software Engineer at [GreatFruit](http://greatfruit.org/)
 
 **February 2016 – August 2018**
 
-- Ported a desktop application - Android emulator - to run in cloud in headless mode (C, C++, Python, OpenGL).
-- Modified Android 4.2 and 6.0 (Android-specific virtual device drivers/kernel modules, userspace libraries, and frameworks) to run in LXC containers (C, C++, Java).
+- Modified Android 4.2 and 6.0 (Android-specific virtual device drivers/kernel modules, userspace services, libraries, and frameworks) to run in LXC containers (C, C++, Java) on Amazon EC2 instances - from planning and research to a working prototype in 3 months.
+- Modified a desktop application - Android emulator - to run in headless mode (C, C++, Python, OpenGL).
 - Backported changes from newer Android and Linux Kernel versions (C, C++).
 - Implemented low-latency screen and audio streaming (C, C++, GStreamer).
-- Implemented virtual camera, audio HALs (C++)
+- Implemented virtual camera, audio HALs (C++).
 - Wrote and improved lots of build scripts (Android.mk/Makefile, CMake).
 
 ### Software Engineer at [Crystalnix](https://www.crystalnix.com/)
@@ -49,17 +48,10 @@ Gradually moved all source code repositories (more than 100 of them) from Mercur
 **February 2014 – February 2016**
 
 - Worked on a spam filtering server (Linux, C++, Boost.ASIO, CMake) – build scripts, optimizations in networking code.
-- Implemented a shell for a web application for multiple platforms (Windows, Linux, macOS, Qt) with deep integration with desktop environments, installers for every platform.
+- Implemented a shell for a web application for multiple platforms (Windows, Linux, macOS; Qt) with deep integration with desktop environments, installers for every platform.
 - Participated in development of POS software (Windows, C++, Qt, QML, CMake) – data synchronization with a remote server, communication with peripheral devices, build scripts.
 - Implemented custom DNS caching in a Chromium-based browser, tied to customer's (ISP) infrastructure.
 - Implemented a GUI utility for batch processing of archives in multiple formats (Linux, GTK, Python).
-
-Personal Projects
------------------
-
-- [Reverse-engineered Linux Hwmon driver for NZXT RGB & Fan Controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms), [included in Linux kernel since 5.17](https://github.com/torvalds/linux/blob/master/drivers/hwmon/nzxt-smart2.c)
-- [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
-- [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
 
 Education
 ---------
@@ -78,26 +70,34 @@ Education
 - Participated in ACM ICPC 2010-2011, 2011-2012 NEERC semifinals (Novosibirsk SU 2 team), and other programming contests.
 - Participated in [Google Summer of Code 2013 (KDE)](https://community.kde.org/GSoC/2013/StatusReports#Alexander_Mezin).
 
+Personal Projects
+-----------------
+
+- [Reverse-engineered Linux Hwmon driver for NZXT RGB & Fan Controller](https://github.com/amezin/nzxt-rgb-fan-controller-dkms), [included in the mainline Linux kernel since 5.17](https://github.com/torvalds/linux/blob/master/drivers/hwmon/nzxt-smart2.c)
+- [Drop-Down Terminal Extension for GNOME Shell](https://extensions.gnome.org/extension/3780/ddterm/) (JavaScript, Gtk, Wayland)
+- [Visual Studio Code Project Generator for Linux Kernel](https://github.com/amezin/vscode-linux-kernel)
+- [QtQuick/QML Compositor for X11](https://github.com/amezin/qmlcompmgr)
+
 Contributions to Open Source Projects
 -------------------------------------
 
-### KDE
+### KDE (C++, Qt)
 
-- [Implemented Touchpad settings module](https://github.com/KDE/plasma-desktop/tree/master/kcms/touchpad)
+- [Implemented Touchpad settings module](https://github.com/KDE/plasma-desktop/commits?author=amezin)
 - Bug fixes in [KDevelop](https://github.com/KDE/kdevelop/commits?author=amezin), [PowerDevil](https://github.com/KDE/powerdevil/commits/master?author=amezin)
 - [Game compatibility improvements in KWin](https://github.com/KDE/kwin/commits?author=amezin)
 
-### GNOME
+### GNOME (C)
 
 - [GLib - clang-cl, Windows compatibility improvements](https://github.com/GNOME/glib/commits?author=amezin)
 - [Mutter - bug fixes](https://github.com/GNOME/mutter/commits?author=amezin)
 
-### Linux Kernel
+### Linux Kernel (C)
 
 - [Workarounds for hardware/firmware bugs in ACPI AC and battery drivers](https://github.com/torvalds/linux/commits/v3.18?author=amezin)
 - [Reverse-engineered Linux Hwmon driver for NZXT RGB & Fan Controller](https://github.com/torvalds/linux/blob/master/drivers/hwmon/nzxt-smart2.c)
 
-### LXC
+### LXC (C, Python)
 
 - [Fixes for Android containers](https://github.com/lxc/lxc/commits/a5c28c86f56835fa3e0915558e05390dd0a79580?author=amezin)
 - [Improvements in Python bindings that allowed building them separately](https://github.com/lxc/lxc/commits/2c500c107acf9b9e90d3d190c940a3c4660bce85/src/python-lxc?author=amezin)
